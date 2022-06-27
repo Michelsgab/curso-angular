@@ -11,7 +11,10 @@ export class FirstComponentComponent implements OnInit {
   dream = ['Helping others', 'Family', 'Audi'];
   car = {
     make: 'Audi',
-    model: 'TTRS',
+    model: {
+      first: 'TTRS',
+      second: 'R8'
+    },
     color: 'Blue',
   };
 
