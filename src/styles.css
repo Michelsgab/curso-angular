@@ -9,7 +9,7 @@ body {
 }
 
 .class {
-  border-bottom: #FF0000;
+  border-bottom: 1px solid #FF0000;
   padding: 2em;
   margin-bottom: 2em;
 }
